@@ -1,4 +1,4 @@
-package secao9_poo.aulas.exercicios.ex01_contaBancaria;
+package secao9_poo.aulas._exercicios.ex01_contaBancaria;
 
 import java.util.Locale;
 import java.util.Scanner;
