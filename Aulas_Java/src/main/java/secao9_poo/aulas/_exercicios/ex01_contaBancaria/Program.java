@@ -32,7 +32,7 @@ public class Program {
 
         System.out.println("Enter a deposit value:");
         double Deposito = sc.nextDouble();
-        conta.Deposit(Deposito); //chamo o Deposit passando como argumento o Deposito
+        conta.Deposit(Deposito); //chamo o Deposit passando como argumento o Depósito
 
         System.out.println("Update Data: "+conta);
 
